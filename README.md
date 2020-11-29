@@ -5,15 +5,15 @@ Notre client Floupics souhaite se lancer dans le domaine de la VOD en créant un
 ## Notre mission
 
 Créer la base de données Floupics sous Python avec l'import des fichiers Csv fournis par le client:
-    - movies.csv
-    - links.csv
-    - ratings.csv
-    - tags.csv
+   - movies.csv
+   - links.csv
+   - ratings.csv
+   - tags.csv
 
 Explorer et analyser la base de données en procédant à des requêtes SQLite et Python :
-    - Schéma relationnel BDD
-    - Rapport d'analyse BDD
-    - Rapport des disfonctionnements et limites de la BDD
+   - Schéma relationnel BDD
+   - Rapport d'analyse BDD
+   - Rapport des disfonctionnements et limites de la BDD
 
 Synthèse finale avec nos recommandations de dévelopemment de la BDD
 
@@ -21,14 +21,14 @@ Synthèse finale avec nos recommandations de dévelopemment de la BDD
 
 Pour la réalisation de notre étude nous utiliserons les programmes suivants :
 
-- Python 3.8.6
-- Bibliothèques / modules Python :    
-        Jupyter Lab
-        SQLite3
-        Csv
-- Jupyter Lab
-- DB Browser SqLite
-- MySqlWorkbench
+   - Python 3.8.6
+   - Bibliothèques / modules Python :    
+        - Jupyter Lab
+        - SQLite3
+        - Csv
+   - Jupyter Lab
+   - DB Browser SqLite
+   - MySqlWorkbench
 
 ## Démarrage
 
