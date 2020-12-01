@@ -4,7 +4,7 @@ Notre client Floupics souhaite se lancer dans la VOD en créant un nouveau servi
 
 ## Notre mission
 
-P1 - Créer la base de données Floupics sous Python avec l'import des fichiers Csv fournis par le client:
+P1 - Créer la base de données Floupics avec Python, importer les données des fichiers Csv fournis par le client :
    - movies.csv
    - links.csv
    - ratings.csv
@@ -27,7 +27,7 @@ Pour la réalisation de notre étude nous utiliserons les programmes suivants :
         - SQLite3
         - Csv
    - Elaboration et exécution du Script sous notebooks Jupyter Lab
-   - Requêtes Sql sous DB Browser SqLite
+   - Requêtes Sql sous script Python
    - Elaboration du schéma relationnel sous MySqlWorkbench
 
 ## Liens de téléchargement des différents logiciels
@@ -48,6 +48,6 @@ Pour la réalisation de notre étude nous utiliserons les programmes suivants :
 
 ## License
 
-Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+TBC
 
 
