@@ -11,12 +11,16 @@ P1 - Créer la base de données Floupics avec Python, importer les données des 
    - tags.csv
 
 P2 - Explorer et analyser la base de données en procédant à des requêtes SQLite et Python :
-   - Schéma relationnel BDD
+   - Scripts et résultats
+
+P3 - Synthèse finale avec nos recommandations de dévelopemment de la BDD :
    - Rapport d'analyse BDD
    - Rapport des disfonctionnements et limites de la BDD
 
-P3 - Synthèse finale avec nos recommandations de dévelopemment de la BDD
-
+Autres documents :
+   - Schéma relationnel BDD format png et pdf
+   
+    
 ### Pré-requis
 
 Pour la réalisation de notre étude nous utiliserons les programmes suivants :
